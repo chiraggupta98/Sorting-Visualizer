@@ -1,6 +1,6 @@
     import java.util.Arrays;
 
-    public class SortingVisualizer {
+    public class sortingVisualizer {
 
         // Bubble Sort
         public static void bubbleSort(int[] arr) {
